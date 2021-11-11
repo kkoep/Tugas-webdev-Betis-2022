@@ -1,0 +1,17 @@
+
+
+.daun{
+  background-color: #F5F6FA;
+}
+.Daun-kiri {
+  float: left;
+  transform: scaleX(-1);
+  padding: -100px;
+}
+.Daun-kanan {
+  float: right;
+  padding: -100px;
+}
+.daun h1{
+  color: #F5F6FA;
+}
