@@ -1,0 +1,93 @@
+.body{
+    background-color: #F3DCC9;
+    float: left;
+    width: 1519px;
+}
+.logo {
+    padding: 10px;
+    margin: 2px;
+    width: 75px;
+    height: 75px;
+    float: left;
+}
+.navbar {
+    float: right;
+}
+
+.navbar li {
+    list-style: none;
+    float: left;
+    padding: 10px 30px;
+    margin: 0px 30px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.navbar button {
+    background-color: #5B6A00;
+    border: none;
+    color: white;
+    padding: 10px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 20px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+  }
+  
+  .button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+.title{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 44px;
+    float: left;
+    width: 1519px;
+}
+.color-1{
+    color: #D53D40;
+    padding: 0px 20px;
+}
+
+.color-2{
+    color : #743A15;
+}
+
+.title button {
+    background-color: #5B6A00;
+    border: none;
+    color: white;
+    padding: 10px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 50px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+  }
+  
+  .button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+.Orang {
+    width: 450px;
+    margin: -75px -50px;
+}
+.Petunjuk{
+    float: right;
+}
+
+.bar{
+    background-color: #513320;
+    padding: 50px;
+    color: #513320;
+}
