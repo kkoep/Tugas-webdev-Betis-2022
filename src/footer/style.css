@@ -1,0 +1,44 @@
+
+.footer {
+    background-color: #F5F6FA;
+    float: left;
+    width: 1519px;
+  }
+  
+.footer-col-1 {
+    float: left;
+    padding: 20px;
+    margin: 35px;
+  }
+  
+.footer-col-2 {
+    float: left;
+    padding: 20px 60px;
+    margin: 35px;
+    margin-left: 100px;
+  }
+  
+.footer-col-3 {
+    float: left;
+    padding: 20px;
+    margin: 35px;
+    margin-left: 50px;
+  }
+  
+.Alamat{
+    text-align: left;
+  }
+.Logo{
+    float: left;
+    padding: 15px;
+  }
+.text-footer-col-3{
+    float: left;
+  }
+.footer-text {
+    float: left;
+  }
+
+.footer-col-1 .Logo{
+  cursor: pointer;
+}
